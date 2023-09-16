@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Roboto+Condensed:wght@400;700&display=swap');
+
+
+.font-mulish {
+  font-family: 'Mulish', sans-serif;
+}
+
+/* Example usage of the font-mulish class */
+body {
+  color: black;
+  background: #ffffff;
+  font-family: 'Mulish', sans-serif;
+}
